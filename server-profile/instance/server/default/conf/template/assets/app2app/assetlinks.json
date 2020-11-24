@@ -1,0 +1,5 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "com.pingidentity.robotto",
+               "sha256_cert_fingerprints": ["BB:EE:D1:FA:CE:55:CF:E5:61:6A:E9:70:A9:03:E6:DC:A0:F8:F9:B6:55:60:74:5B:3E:37:7E:04:50:7B:C8:E9"] }
+}]
